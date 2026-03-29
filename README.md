@@ -37,5 +37,5 @@ Coming soon 👇
 ---
 
 ## 📫 Connect With Me
-- LinkedIn: <add your link>
-- Email: <add your email>
+- LinkedIn: <https://www.linkedin.com/in/sateesh-tulluru-2185bb22a/>
+- Email: <sateeshtulluru@gmail.com>
